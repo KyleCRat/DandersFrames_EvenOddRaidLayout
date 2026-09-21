@@ -1,6 +1,6 @@
 ## Interface: 120100
 ## Title: DandersFrames Even/Odd Raid Layout
-## Notes: Displays odd raid groups together, followed by even raid groups.
+## Notes: Orders raid groups by odd then even pairs, with an unpaired final group last.
 ## Author: Yvairel
 ## Version: 12.1.0-1
 ## Dependencies: DandersFrames
