@@ -24,7 +24,8 @@ Display Order** and **My Group First** settings. Their saved values are unchange
 Disable the companion in WoW's addon list and reload to restore those choices.
 There are no additional controls, slash commands, or SavedVariables.
 
-Targets Retail 12.1.0 and Danders Frames v5.3.3. The integration uses Danders'
-internal group-order function, so a future Danders update may require changes.
+Version `12.1.0-1` targets Retail 12.1.0 and Danders Frames v5.3.3. The integration
+uses Danders' internal group-order function, so a future Danders update may require
+changes.
 It passes a Lua 5.1 syntax check; live rendering, previews, click casting, and
 combat transitions still need in-game verification.
