@@ -42,7 +42,7 @@ behavior.
 Pairing refreshes wait until combat ends and then use current display state.
 Danders' native secure roster and child-visibility updates continue during combat.
 
-Version `12.1.0-1` targets Retail 12.1.0 and Danders Frames v5.3.3. The integration
+Version `12.1.5-2` targets Retail 12.1.5 and Danders Frames v5.3.3. The integration
 uses Danders' internal group-order and displayed-count interfaces, so a future
 Danders update may require changes. It passes a Lua 5.1 syntax check; live and
 preview layouts, hidden/empty group changes, growth directions and wrapping,

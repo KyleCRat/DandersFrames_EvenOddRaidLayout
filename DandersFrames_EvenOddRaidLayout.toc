@@ -1,8 +1,8 @@
-## Interface: 120100
+## Interface: 120100, 120105
 ## Title: DandersFrames Even/Odd Raid Layout
 ## Notes: Orders raid groups by odd then even pairs, with an unpaired final group last.
 ## Author: Yvairel
-## Version: 12.1.0-1
+## Version: 12.1.5-2
 ## Dependencies: DandersFrames
 
 DandersFrames_EvenOddRaidLayout.lua
